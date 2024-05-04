@@ -1,6 +1,6 @@
 # owrell-v1
  
-Owrell is an Language based AI tool based on g4f and gpt-3.5
+owrellv1.streamlit.app is an Language based AI tool based on g4f and gpt-3.5
 
 # Usage Examples
 
